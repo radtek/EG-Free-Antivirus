@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EGAntiVirus", "EGAntiVirus\EGAntiVirus.vcproj", "{58B30D67-B5C4-40A7-80D8-26C3C3F01C2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavscanner", "egavscanner\egavscanner.vcproj", "{EF771035-34F2-405D-BBDA-32ED002D47DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavser", "egavser\egavser.vcproj", "{DB0B8573-D858-4E52-8D63-9C276F78FF19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavtray", "egavtray\egavtray.vcproj", "{379DA014-BE02-4EAD-B91F-82023B6A9668}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavupdate", "egavupdate\egavupdate.vcproj", "{0A1E1B86-18C8-4837-8BB5-8C73F155DAEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavservicerestart", "egavservicerestart\egavservicerestart.vcproj", "{C8EC9F99-A510-4FE4-8070-574959622361}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "egavas", "egavas\egavas.vcproj", "{533DD298-0F72-4EBE-8274-EA1DBA2C645C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B30D67-B5C4-40A7-80D8-26C3C3F01C2C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58B30D67-B5C4-40A7-80D8-26C3C3F01C2C}.Debug|Win32.Build.0 = Debug|Win32
+		{58B30D67-B5C4-40A7-80D8-26C3C3F01C2C}.Release|Win32.ActiveCfg = Release|Win32
+		{58B30D67-B5C4-40A7-80D8-26C3C3F01C2C}.Release|Win32.Build.0 = Release|Win32
+		{EF771035-34F2-405D-BBDA-32ED002D47DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF771035-34F2-405D-BBDA-32ED002D47DB}.Debug|Win32.Build.0 = Debug|Win32
+		{EF771035-34F2-405D-BBDA-32ED002D47DB}.Release|Win32.ActiveCfg = Release|Win32
+		{EF771035-34F2-405D-BBDA-32ED002D47DB}.Release|Win32.Build.0 = Release|Win32
+		{DB0B8573-D858-4E52-8D63-9C276F78FF19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB0B8573-D858-4E52-8D63-9C276F78FF19}.Debug|Win32.Build.0 = Debug|Win32
+		{DB0B8573-D858-4E52-8D63-9C276F78FF19}.Release|Win32.ActiveCfg = Release|Win32
+		{DB0B8573-D858-4E52-8D63-9C276F78FF19}.Release|Win32.Build.0 = Release|Win32
+		{379DA014-BE02-4EAD-B91F-82023B6A9668}.Debug|Win32.ActiveCfg = Debug|Win32
+		{379DA014-BE02-4EAD-B91F-82023B6A9668}.Debug|Win32.Build.0 = Debug|Win32
+		{379DA014-BE02-4EAD-B91F-82023B6A9668}.Release|Win32.ActiveCfg = Release|Win32
+		{379DA014-BE02-4EAD-B91F-82023B6A9668}.Release|Win32.Build.0 = Release|Win32
+		{0A1E1B86-18C8-4837-8BB5-8C73F155DAEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A1E1B86-18C8-4837-8BB5-8C73F155DAEC}.Debug|Win32.Build.0 = Debug|Win32
+		{0A1E1B86-18C8-4837-8BB5-8C73F155DAEC}.Release|Win32.ActiveCfg = Release|Win32
+		{0A1E1B86-18C8-4837-8BB5-8C73F155DAEC}.Release|Win32.Build.0 = Release|Win32
+		{C8EC9F99-A510-4FE4-8070-574959622361}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8EC9F99-A510-4FE4-8070-574959622361}.Debug|Win32.Build.0 = Debug|Win32
+		{C8EC9F99-A510-4FE4-8070-574959622361}.Release|Win32.ActiveCfg = Release|Win32
+		{C8EC9F99-A510-4FE4-8070-574959622361}.Release|Win32.Build.0 = Release|Win32
+		{533DD298-0F72-4EBE-8274-EA1DBA2C645C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{533DD298-0F72-4EBE-8274-EA1DBA2C645C}.Debug|Win32.Build.0 = Debug|Win32
+		{533DD298-0F72-4EBE-8274-EA1DBA2C645C}.Release|Win32.ActiveCfg = Release|Win32
+		{533DD298-0F72-4EBE-8274-EA1DBA2C645C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
